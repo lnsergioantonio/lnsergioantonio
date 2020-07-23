@@ -1,5 +1,5 @@
-## Hi thanks for visiting my github :octocat:, I'm [Sergio](https://lnserggoantonio.github.io) 👋
-## Android developer from México. 📱 :mexico:
+# Hi thanks for visiting my github :octocat:
+##I'm [Sergio](https://lnserggoantonio.github.io) 👋 Android developer from México. 📱 :mexico:
 
 <a href="https://twitter.com/lnsergioantonio">
   <img align="left" alt="Sergio Antonio | Twitter" width="21px" src="https://raw.githubusercontent.com/lnsergioantonio/lnsergioantonio/master/assets/twitter.svg" />
@@ -16,7 +16,7 @@ Take care of nature. 🌎
             - 😅 I am trying to improve my English 
         </td>
         <td>
-            ![Image of Yaktocat](https://raw.githubusercontent.com/lnsergioantonio/lnsergioantonio/master/assets/AS_hello_world.png)
+            <img src="https://raw.githubusercontent.com/lnsergioantonio/lnsergioantonio/master/assets/AS_hello_world.png" alt="Android Studio" width="50%" height="50%">
         </td>
     </tr>
 </table>
