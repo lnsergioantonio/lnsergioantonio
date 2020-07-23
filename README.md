@@ -1,7 +1,16 @@
-### Hi, I'm [Sergio](https://lnserggoantonio.github.io) 👋
+## Hi thanks for visiting my github :octocat:, I'm [Sergio](https://lnserggoantonio.github.io) 👋
+## Android developer from México. 📱 :mexico:
 
-Hi, I'm Sergio López, a Android developer from México. 📱 :mexico:
+<a href="https://twitter.com/lnsergioantonio">
+  <img align="left" alt="Sergio Antonio | Twitter" width="21px" src="https://raw.githubusercontent.com/lnsergioantonio/lnsergioantonio/master/assets/twitter.svg" />
+</a>
 
-I have a degree in Computer Science, developing since 2008, I was a teacher for software engineering students at a university. My main programming languages are kotlin and java.
-My favorite game is Start Craft, looking at the planets and the stars. I am trying to improve my English: P
-Take care of nature.
+Take care of nature. 🌎
+
+
+| I have a degree in Computer Science, developing since 2008, I was a teacher for software engineering students at a university. My main programming languages are kotlin and java.
+  - 👾 My favorite game is Start Craft
+  - 🔭 I like to look at the planets and the stars 🌌☄️🌠🌖
+  - 😅 I am trying to improve my English | ![Image of Yaktocat](https://raw.githubusercontent.com/lnsergioantonio/lnsergioantonio/master/assets/AS_hello_world.png) |
+|--|--|
+
