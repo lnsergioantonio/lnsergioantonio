@@ -7,10 +7,16 @@
 
 Take care of nature. 🌎
 
-
-| I have a degree in Computer Science, developing since 2008, I was a teacher for software engineering students at a university. My main programming languages are kotlin and java.
-  - 👾 My favorite game is Start Craft
-  - 🔭 I like to look at the planets and the stars 🌌☄️🌠🌖
-  - 😅 I am trying to improve my English | ![Image of Yaktocat](https://raw.githubusercontent.com/lnsergioantonio/lnsergioantonio/master/assets/AS_hello_world.png) |
-|--|--|
-
+<table>
+    <tr>
+        <td>
+            I have a degree in Computer Science, developing since 2008, I was a teacher for software engineering students at a university. My main programming languages are kotlin and java.
+            - 👾 My favorite game is Start Craft
+            - 🔭 I like to look at the planets and the stars 🌌☄️🌠🌖
+            - 😅 I am trying to improve my English 
+        </td>
+        <td>
+            ![Image of Yaktocat](https://raw.githubusercontent.com/lnsergioantonio/lnsergioantonio/master/assets/AS_hello_world.png)
+        </td>
+    </tr>
+</table>
