@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/lnsergioantonio/lnsergioantonio/master/assets/AS_hello_world.png" alt="Android Studio" >
+<img src="https://raw.githubusercontent.com/lnsergioantonio/lnsergioantonio/master/assets/AS_landscape.png" alt="Android Studio" >
 
 ## Hi thanks for visiting my github :octocat:
 ### I'm [Sergio](https://lnserggoantonio.github.io) 👋 Android developer from México. 📱 :mexico:
