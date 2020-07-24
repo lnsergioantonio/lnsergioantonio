@@ -1,12 +1,13 @@
 <img src="https://raw.githubusercontent.com/lnsergioantonio/lnsergioantonio/master/assets/AS_landscape.png" alt="Android Studio" >
 
 ## Hi thanks for visiting my github :octocat:
-### I'm [Sergio](https://lnserggoantonio.github.io) 👋 Android developer from México. 📱 :mexico:
+### I'm [Sergio](https://lnsergioantonio.github.io/) 👋 Android developer from México. 📱 :mexico:
 
 <a href="https://twitter.com/lnsergioantonio">
   <img align="left" alt="Sergio Antonio | Twitter" width="21px" src="https://raw.githubusercontent.com/lnsergioantonio/lnsergioantonio/master/assets/twitter.svg" />
 </a>
 
+<br>
 <br>
 
 I have a degree in Computer Science, developing since 2008, 
